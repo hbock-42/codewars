@@ -1,5 +1,5 @@
-import '../lib/kata/6_automorphic_number.dart';
+import '../lib/kata/10_nut_farm_2.dart';
 
 void main(List<String> arguments) {
-  runAutomorphic();
+  printNutFarm2();
 }
