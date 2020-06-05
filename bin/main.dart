@@ -1,5 +1,5 @@
-import '../lib/kata/10_nut_farm_2.dart';
+import '../lib/kata/11_tv_remote_shift_space.dart';
 
 void main(List<String> arguments) {
-  printNutFarm2();
+  printTvRemote();
 }
